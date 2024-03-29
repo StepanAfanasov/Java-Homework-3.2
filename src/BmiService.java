@@ -3,6 +3,7 @@ public class BmiService {
         double index;
         {
             index = (weight / (height * height));
-        }return (int) index;
+        }
+        return (int) index;
     }
 }
