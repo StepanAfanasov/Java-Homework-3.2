@@ -6,5 +6,4 @@ public class BmiService {
         }
         return (int) index;
     }
-
 }
